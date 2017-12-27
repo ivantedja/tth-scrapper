@@ -8,4 +8,11 @@
 
 ## Run script
 
-`$ irb -r ./main.rb`
+`$ ruby main.rb`
+
+## Improvements
+
+- automatically retrieve topics
+- create the UI
+- automatically create folders based on topic, etc
+- better video's filename
