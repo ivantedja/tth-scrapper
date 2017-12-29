@@ -16,3 +16,4 @@
 - create the UI
 - automatically create folders based on topic, etc
 - better video's filename
+- download workshop
